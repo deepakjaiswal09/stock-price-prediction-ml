@@ -6,6 +6,9 @@ Stock price prediction is a challenging and fascinating problem in the financial
 
 This project focuses on predicting Google stock prices by leveraging technical analysis and deep learning models, specifically Long Short-Term Memory (LSTM) networks, to capture temporal dependencies in the data.
 
+<img width="1920" height="1080" alt="Screenshot (719)" src="https://github.com/user-attachments/assets/bee9b360-c93e-4487-9f11-39fb48ba7238" />
+
+
 ---
 
 ## Why This Project?
